@@ -1,1 +1,1 @@
-# 20230223
+# Scrapbox用Bookmarklet [タイトル URL]
