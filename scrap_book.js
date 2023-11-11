@@ -1,1 +1,0 @@
-javascript:(function(){var l=window.location.href,t=document.title,d=new Date(),s=d.getFullYear()+'.'+(d.getMonth()+1)+'.'+d.getDate();window.prompt('Scrapbox用 以下の内容をコピーする [タイトル URL]','['+t+' '+l+']')})();
