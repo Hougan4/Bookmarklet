@@ -1,13 +1,20 @@
-# Scrapbox-Bookmarklet [Title URL]
+# Bookmarklet
+
+よく使う自作ブックマークレット
 
 
+### 使い方
+- Google Chromeのブックマークを編集し、URL欄にhoge.jsの中身を貼り付ける
+
+#
+
+### Scrapbox-Bookmarklet
+- WebサイトのURLを"[サイトのタイトル␣URL]" の形式でコピーできる
 <img width="444" alt="image" src="https://user-images.githubusercontent.com/106863979/222058670-200b47c3-755a-4ea7-9e94-7f8f34452d1a.png">
 
-## 機能
-- ScrapboxにWebサイトのリンクを貼り付ける際、"[サイトのタイトル␣URL]" の形式でURLをコピーできるブックマークレット
 
-## 使い方
-- Google Chromeを開いて空のページをブックマークし、「その他」を押す
-- URLの欄にscrap_book.jsの中身を貼り付ける
-- URLをコピーしたいページを開いてブックマークを押すと"[サイトのタイトル␣URL]"をコピーすることができる
+#
 
+### arXiv-Bookmarklet
+- arXivのリンクをar5ivのリンクに変換し、論文をHTML5形式で表示する
+<img width="1331" alt="image" src="https://github.com/Hougan4/Scrapbox-Bookmarklet/assets/106863979/97791685-6d33-4296-88fb-bfc8c039066b">
