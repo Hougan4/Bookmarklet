@@ -1,0 +1,1 @@
+javascript:(function(){var currentURL=window.location.href;var modifiedURL=currentURL.replace("arxiv","ar5iv");var translateURL='https://translate.google.com/translate?hl=en&sl=auto&tl=ja&u='+encodeURIComponent(modifiedURL);window.open(translateURL,'_blank');})();
